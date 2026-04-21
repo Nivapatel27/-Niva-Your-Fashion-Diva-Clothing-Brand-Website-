@@ -1,4 +1,4 @@
-<img width="1835" height="6129" alt="image" src="https://github.com/user-attachments/assets/04ea0283-c634-4cb9-82e1-9ae8139d37a5" /># Niva – Your Fashion Diva 
+# Niva – Your Fashion Diva 
 
 A modern and responsive fashion website designed to showcase stylish collections with a clean and aesthetic user interface.
 
@@ -20,7 +20,7 @@ A modern and responsive fashion website designed to showcase stylish collections
 
 
 Screenshots
-
+<img width="1835" height="6129" alt="image" src="https://github.com/user-attachments/assets/04ea0283-c634-4cb9-82e1-9ae8139d37a5" />
 
 
 What I Learned
